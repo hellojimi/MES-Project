@@ -1,14 +1,14 @@
-# MES(주) 주사기제조공장의 생산관리시스템(MES)
+# MES 주식회사
+주사기제조공장 MES 생산관리 사이트
 
 <img src="BESimages/MES_main.PNG" width="95%" height="90%"></img>
 
 ### 호스팅 사이트 : http://itwillbs19.cafe24.com/login/login
 #### 개발 도구 : STS, Workbench
 #### 사용언어 : Java(OpenJDK 11.0.2), MySQL(8.0.17), JavaScript
-#### 라이브러리 : jQuery(3.6.4), JSTL(1.2)
-#### 프레임워크 : Spring(4.3.8.RELEASE), MyBatis
-#### 웹어플리케이션 도구 : JSP MVC Model2
-#### 주제 : Spring 기반 MES시스템 설계
+#### 라이브러리 : jQuery(3.6.3), JSTL(1.2), Bootstrap v4.6.0
+#### 프레임워크 : Spring(4.3.8.RELEASE), MyBatis(3.4.1)
+#### 웹어플리케이션 도구 : JSP(MVC model2)
 
 ---
 
